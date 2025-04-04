@@ -3,3 +3,4 @@ clean_data/
 env/
 analysis_test.ipynb
 analysis_test2.ipynb
+data_clean.txt
